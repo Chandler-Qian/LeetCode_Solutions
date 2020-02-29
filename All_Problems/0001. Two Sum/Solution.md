@@ -3,7 +3,7 @@
  - Best-Concivable-Complexity: 
 	 - Time: O(n).
 	 - Space: O(n).
- - In order to return indices of pairs, we need to record the indices with corresponding numbers. Therefore, we can use a map with key as numbers and value as indices.
+ - In order to return indices of pairs, we need to record the indices with corresponding numbers. Therefore, we can use a **map** with key as numbers and value as indices.
 
 ## Solution
 ```
